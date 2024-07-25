@@ -363,7 +363,8 @@
 {
 "name": "France",
 "code": "+33",
-"code-in": "FR"
+"code-in": "FR",
+"flag": "https://flagcdn.com/w20/fr.png" 
 },
 {
 "name": "French Guiana",
