@@ -1443,7 +1443,7 @@ const countryCodes = [
     {
         name: "Zimbabwe",
         code: "+263",
-        flag: "https://flagcdn.com/w20/fr.png",
+        flag: "https://flagcdn.com/w20/zw.png",
         "code-in": "ZW",
     },
 ];
